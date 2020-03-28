@@ -1,6 +1,6 @@
 # AccuratePT4
 
-##Menu
+## Menu
 
 **Le menu dispose de 3 possibilités :**
 - Partie simple
