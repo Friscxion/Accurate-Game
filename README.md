@@ -37,5 +37,5 @@ Entrez le nombre de cibles par minute que vous souhaitez (de base 100 par minute
 
 ### Fonctionnement
 
-Le programme isole les haut pique de la musique et fait apparaitre des cibles sur celles-ci.
+Le programme isole les piques de fréquences hautes de la musique et fait apparaitre des cibles sur celles-ci.
 Le but est le même que précédement il faut toucher toutes les cibles avant que le cercle n'atteingne la cible.
