@@ -15,8 +15,8 @@
 
 ### But
 
-Dans ce mode de jeu on cherche à rester le plus longtemps dans la partie.
-Il faut toucher les cibles avant que le cercle blanc ne les atteinges.
+Dans ce mode de jeu, on cherche à rester le plus longtemps dans la partie.
+Il faut toucher les cibles avant que le cercle blanc ne les atteigne.
 
 **Les Types de cibles :**
 - Cible simple : il faut la toucher une seul fois
@@ -32,9 +32,9 @@ Dans ce mode de jeu, plus la partie avance, plus la difficulté augmente.
 
 Vous devez télécharger et convertir une musique en .WAV.
 Ensuite, lancez la partie et séléctionnez votre fichier .WAV.
-Entrez le nombre de cibles par minute que vous souhaitez (de base 100 par minute).
+Pour finir, entrez le nombre de cibles par minute que vous souhaitez (de base 100 par minute).
 
 ### Fonctionnement
 
-Le programme isole les piques de fréquences hautes de la musique et fait apparaitre des cibles sur celles-ci.
-Le but est le même que précédement il faut toucher toutes les cibles avant que le cercle n'atteingne la cible.
+Le programme isole les piques de fréquences hautes de la musique et fait apparaître des cibles sur celles-ci.
+Le but est le même que précédement, à savoir, toucher toutes les cibles avant que le cercle n'atteingne la cible.
