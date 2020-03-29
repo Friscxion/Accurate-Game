@@ -8,7 +8,7 @@
 - Quitter
 
 **La navigation :**
-On utilise :
+Ce fait comme suit :
   - Les flèches directionnelles pour se diriger
   - La touche Entrer pour séléctionner le choix
 
