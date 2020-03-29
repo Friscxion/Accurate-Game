@@ -9,7 +9,7 @@
 
 **La navigation :**
 On utilise :
-  - Les flèches directionnelles pour ce diriger
+  - Les flèches directionnelles pour se diriger
   - La touche Entrer pour séléctionner le choix
 
 ## Partie simple
