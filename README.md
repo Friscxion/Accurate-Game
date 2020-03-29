@@ -28,7 +28,7 @@ Dans ce mode de jeu, plus la partie avance, plus la difficulté augmente.
 
 ## Partie personnalisée
 
-### Démarer une partie
+### Démarrer une partie
 
 Vous devez télécharger et convertir une musique en .WAV.
 Ensuite, lancez la partie et séléctionnez votre fichier .WAV.
