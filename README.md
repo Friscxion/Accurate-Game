@@ -7,8 +7,7 @@
 - Partie personnalisée
 - Quitter
 
-**La navigation :**
-Ce fait comme suit :
+**La navigation se fait comme suit :**
   - Les flèches directionnelles pour se diriger
   - La touche Entrer pour séléctionner le choix
 
